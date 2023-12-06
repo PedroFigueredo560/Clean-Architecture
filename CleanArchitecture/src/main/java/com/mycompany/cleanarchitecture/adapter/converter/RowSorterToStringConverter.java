@@ -1,4 +1,4 @@
-package com.mycompany.cleanarchitecture.framework;
+package com.mycompany.cleanarchitecture.adapter.converter;
 
 
 import javax.swing.JTable;
